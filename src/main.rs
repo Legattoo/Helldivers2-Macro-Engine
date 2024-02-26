@@ -22,7 +22,7 @@ fn main() {
         "guard_dog" => "swawds",
         "autocannon_sentry" => "swdwaw",
         "rocket_sentry" => "swdda",
-        "ems_mortar_sentry" => "sswwa",
+        "ems_mortar_sentry" => "swdsd",
         "anti-personnel_minefield" => "sawd",
         "supply_pack" => "saswws",
         "grenade_launcher" => "sawas",
